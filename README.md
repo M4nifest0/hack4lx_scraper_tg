@@ -20,12 +20,12 @@ python3 scraper.py
 
 ( members.csv is default if you changed name use it )
 **********************************************************
-# title           :instagram-hack4lx_Feed
+# title           :hack4lx_scraper_tg
 # description     :👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
 # author          :rainboy1 | erfan4lx | Vampire4lx
 # date            :2020 March
 # version         :1.1.0
-# usage           :python3 start.py and  python3 start.py --color
+# usage           :python3 start.py and  python3 setup.py -i QQ python3 setup.py -c QQ python3 scraper.py
 # channel          :t.me/hack4lxCombo
 # python_version  :+3.7
 
