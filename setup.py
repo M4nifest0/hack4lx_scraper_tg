@@ -86,8 +86,10 @@ def update_tool():
 		os.system('rm *.py');time.sleep(3)
 		print(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')
 		os.system("""
-			curl -s -O https://github.com/attakercyebr/hack4lx_scraper_tg/edit/master/scraper.py
-			curl -s -O https://github.com/attakercyebr/hack4lx_scraper_tg/edit/master/setup.py
+			curl -s -O https://raw.githubusercontent.com/attakercyebr/hack4lx_scraper_tg/master/add2group.py
+			curl -s -O https://raw.githubusercontent.com/attakercyebr/hack4lx_scraper_tg/master/scraper.py
+			curl -s -O https://raw.githubusercontent.com/attakercyebr/hack4lx_scraper_tg/master/setup.py
+			curl -s -O https://raw.githubusercontent.com/attakercyebr/hack4lx_scraper_tg/master/smsbot.py
 		        chmod 777 *.py
 			""");time.sleep(3)
 		print(gr+'\n['+cy+'+'+gr+']'+cy+' update compled.\n')
