@@ -9,11 +9,16 @@ put app name you want & select other in platform Example :
 
 copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 **********************************************************
-$ python3 stup.py -i
+#python3 stup.py -i
+
 setup configration file ( apiID, apiHASH )
-$ python3 setup.py -c
+
+#python3 setup.py -c
+
 To Genrate User Data
-$ python3 scraper.py
+
+#python3 scraper.py
+
 ( members.csv is default if you changed name use it )
 **********************************************************
 # title           :instagram-hack4lx_Feed
