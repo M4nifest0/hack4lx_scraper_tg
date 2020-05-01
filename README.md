@@ -10,8 +10,6 @@ put app name you want & select other in platform Example :
 copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 **********************************************************
 # How To Install and Use
-python3 stup.py -i
-
 setup configration file ( apiID, apiHASH )
 
 python3 setup.py -c
